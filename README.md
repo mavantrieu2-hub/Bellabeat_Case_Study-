@@ -28,7 +28,7 @@ How do **consumers use smart devices**, and how can these trends inform **Bellab
 5. **Negative correlation** between steps and sedentary time (correlation = -0.68).
 
 ## 📊 Dashboard:
-![Dashboard](03_Image/Dashboard.JPG)
+![Dashboard](03_Image/02_Dashboard/Dashboard.JPG)
 
 ## ⚠️ Limitations:
 - **Small sample size** (35 users, 61 days) — findings are directional, not statistically conclusive.

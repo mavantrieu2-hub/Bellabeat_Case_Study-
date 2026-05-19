@@ -47,7 +47,7 @@ How do **consumers use smart devices**, and how can these trends inform **Bellab
 - Reaching specific milestones will entitle them to discounts on bellabeat products.
 
 ## 📓 Notebook
-[View full analysis on Kaggle](https://www.kaggle.com/datasets/mvntriu/trends-in-the-use-of-fitbit-smart-devices)
+[View full analysis on Kaggle](https://www.kaggle.com/code/mvntriu/project-bellabeat-by-mavantrieu)
 
 ## 📂 Data Source
 [FitBit Fitness Tracker Data](https://www.kaggle.com/datasets/arashnic/fitbit)

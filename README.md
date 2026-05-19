@@ -1,11 +1,11 @@
 # Bellabeat Case Study: Behavioral Trends of Smart Device Users
 
 ## 📋 Background:
-Bellabeat is a high-tech company that manufactures health-focused smart devices for women. This analysis explores smart device usage 
-data to identify consumer behavioral trends and provide data-driven marketing recommendations.
+Bellabeat is a **high-tech company** that manufactures health-focused smart devices for **women**. This analysis explores smart device usage
+data to identify **consumer behavioral trends** and provide **data-driven marketing recommendations**.
 
 ## ❓ Business Question:
-How do consumers use smart devices, and how can these trends inform Bellabeat's marketing strategy?
+How do **consumers use smart devices**, and how can these trends inform **Bellabeat's marketing strategy**?
 
 ## 🛠️ Tools:
 | Tool | Purpose |
@@ -18,7 +18,7 @@ How do consumers use smart devices, and how can these trends inform Bellabeat's 
 - Defined outlier thresholds based on **domain research** (WHO & health references) for Calories, METs, and Steps.
 - Used **Window Functions (MIN/MAX over ±5 rows)** to verify outliers were isolated anomalies, not regional patterns.
 - Replaced outliers using **Linear interpolation** (average of adjacent values via LAG/LEAD).
-- Merged 8 tables across 2 batches using **CTE + UNION + LEFT JOIN** into a Star Schema (2 Fact + 3 Dimension tables).
+- Merged 8 tables across 2 batches using **CTE + UNION + LEFT JOIN**  to resolve Id inconsistency across data sources, into a Star Schema (2 Fact + 3 Dimension tables).
 
 ## 🔍 Key Insights:
 1. **Monday** has the lowest device usage rate (87.6%).
@@ -31,10 +31,10 @@ How do consumers use smart devices, and how can these trends inform Bellabeat's 
 
 
 ## ⚠️ Limitations:
-- Small sample size (35 users, 61 days) — findings are directional, not statistically conclusive.
-- Dataset from 2016 — consumer behavior may have shifted
-- No demographic data — cannot confirm target segment is office women specifically.
-- Recommendations should be validated with A/B testing before full campaign launch.
+- **Small sample size** (35 users, 61 days) — findings are directional, not statistically conclusive.
+- Dataset from **2016** — consumer behavior may have shifted
+- **No demographic data** — cannot confirm target segment is office women specifically.
+- **Recommendations** should be validated with **A/B testing** before full campaign launch.
 
 ## 💡 Recommendations:
 **Campaign 1 — "Rest Smart" (Monday & Sunday)** Target the 2 lowest engagement days with different angles:

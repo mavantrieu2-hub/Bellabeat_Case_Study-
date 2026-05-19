@@ -33,7 +33,7 @@ How do **consumers use smart devices**, and how can these trends inform **Bellab
 ## ⚠️ Limitations:
 - **Small sample size** (35 users, 61 days) — findings are directional, not statistically conclusive.
 - Dataset from **2016** — consumer behavior may have shifted
-- **No demographic data** — cannot confirm target segment is office women specifically.
+- **No demographic data** — cannot confirm target segment is office **women** specifically.
 - **Recommendations** should be validated with **A/B testing** before full campaign launch.
 
 ## 💡 Recommendations:

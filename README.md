@@ -8,10 +8,12 @@ data to identify **consumer behavioral trends** and provide **data-driven market
 How do **consumers use smart devices**, and how can these trends inform **Bellabeat's marketing strategy**?
 
 ## 🛠️ Tools:
+<center>
 | Tool | Purpose |
 |------|---------|
 | SQL (Azure) | Data cleaning & ETL pipeline |
 | Power BI | Data modeling, analysis & visualization |
+</center>
 
 ## 🔧 Data Processing Highlights:
 - Self-built **ROCCC data quality framework** — rated dataset 2/5 (Low quality) due to small sample **size**, **limited demographics** and **outdated** (2016).

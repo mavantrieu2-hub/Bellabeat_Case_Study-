@@ -30,6 +30,8 @@ How do **consumers use smart devices**, and how can these trends inform **Bellab
 ## 📊 Dashboard:
 ![Dashboard](03_Image/02_Dashboard/Dashboard.JPG)
 
+* Power BI Service: [Dashboard_Bellabeat_By_MaVanTrieu](https://app.powerbi.com/view?r=eyJrIjoiMTRiMDRlOWEtMTNkNi00MDgxLWEwZmEtNDAzZDQ5Y2RiZmJjIiwidCI6IjQ5OWE1OTgxLWNhZTktNGQ3ZC1iZTIyLTRhMDQ0OTRlNjFhOCIsImMiOjEwfQ%3D%3D)
+
 ## ⚠️ Limitations:
 - **Small sample size** (35 users, 61 days) — findings are directional, not statistically conclusive.
 - Dataset from **2016** — consumer behavior may have shifted
@@ -45,6 +47,9 @@ How do **consumers use smart devices**, and how can these trends inform **Bellab
 - 84.67% sedentary time → message: "You have 2 golden hours today — make them count".
 - Users with low steps trend toward high sedentary time (r = -0.68) → nudge sedentary users specifically during these peak windows via smart notification.
 - Reaching specific milestones will entitle them to discounts on bellabeat products.
+
+## Next Steps:
+- 
 
 ## 📓 Notebook
 [View full analysis on Kaggle](https://www.kaggle.com/code/mvntriu/project-bellabeat-by-mavantrieu)

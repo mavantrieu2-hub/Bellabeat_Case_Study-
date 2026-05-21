@@ -30,7 +30,7 @@ How do **consumers use smart devices**, and how can these trends inform **Bellab
 ## 📊 Dashboard:
 ![Dashboard](03_Image/02_Dashboard/Dashboard.JPG)
 
-* Power BI Service: [Dashboard_Bellabeat_By_MaVanTrieu](https://app.powerbi.com/view?r=eyJrIjoiMTRiMDRlOWEtMTNkNi00MDgxLWEwZmEtNDAzZDQ5Y2RiZmJjIiwidCI6IjQ5OWE1OTgxLWNhZTktNGQ3ZC1iZTIyLTRhMDQ0OTRlNjFhOCIsImMiOjEwfQ%3D%3D)
+* **Power BI Service**: [Dashboard_Bellabeat_By_MaVanTrieu](https://app.powerbi.com/view?r=eyJrIjoiMTRiMDRlOWEtMTNkNi00MDgxLWEwZmEtNDAzZDQ5Y2RiZmJjIiwidCI6IjQ5OWE1OTgxLWNhZTktNGQ3ZC1iZTIyLTRhMDQ0OTRlNjFhOCIsImMiOjEwfQ%3D%3D)
 
 ## ⚠️ Limitations:
 - **Small sample size** (35 users, 61 days) — findings are directional, not statistically conclusive.
@@ -49,7 +49,9 @@ How do **consumers use smart devices**, and how can these trends inform **Bellab
 - Reaching specific milestones will entitle them to discounts on bellabeat products.
 
 ## Next Steps:
-- 
+- Conduct an A/B Test on a small control group for the "Rest Smart" and "Golden Hour" campaigns to validate initial conversion rates.
+- Partner with the Data Engineering/Product team to implement automated demographic data collection (age, gender) for future tracking.
+- Expand the analytical sample size by integrating internal 2025-2026 data to update and correct historical 2016 behavioral shifts.
 
 ## 📓 Notebook
 [View full analysis on Kaggle](https://www.kaggle.com/code/mvntriu/project-bellabeat-by-mavantrieu)

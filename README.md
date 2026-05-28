@@ -14,6 +14,7 @@ How do **consumers use smart devices**, and how can these trends inform **Bellab
 | Power BI | Data modeling, analysis & visualization |
 
 ## 🔧 Data Processing Highlights:
+- Flow: **Ask** => **Prepare** => **Process** => **Analysis** => **Share** => **Act**.
 - Self-built **ROCCC data quality framework** — rated dataset 2/5 (Low quality) due to small sample **size**, **limited demographics** and **outdated** (2016).
 - Defined outlier thresholds based on **domain research** (WHO & health references) for Calories (0.67 < Calories < 22 ), METs (9.5 < METs < 230), and Steps (0 < Steps < 220).
 - Used **Window Functions (MIN/MAX over ±5 rows)** to verify outliers were isolated anomalies, not regional patterns.
